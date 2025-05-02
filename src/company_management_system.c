@@ -3,14 +3,6 @@
 #include <stdlib.h>
 #include "company_management_system.h"
 
-
-/************************
- * Cathrine Abu-Elazam
- * 325516193
- * ex_5
- ************************/
-
-
 // Print the menu
 void menu ()
 {
