@@ -41,7 +41,7 @@ A **Company Management System** developed in **C**, simulating real-world compan
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Cathrine-abu/Company_Management_System.git
+    https://github.com/Cathrine-abu/Company_Management_System.git
     ```
 
 2. **Navigate to the project directory:**
