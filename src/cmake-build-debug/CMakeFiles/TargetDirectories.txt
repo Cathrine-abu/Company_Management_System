@@ -1,3 +1,0 @@
-C:/Users/cat01/Desktop/company_management_system_project/src/cmake-build-debug/CMakeFiles/src.dir
-C:/Users/cat01/Desktop/company_management_system_project/src/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/cat01/Desktop/company_management_system_project/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
