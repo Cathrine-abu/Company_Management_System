@@ -6,72 +6,82 @@ A **Company Management System** developed in **C**, simulating real-world compan
 
 ## Features
 
-- Add new workers to the company
-- Open new projects and assign workers
-- Join workers to existing projects
-- Add/remove project features
-- View all active projects
-- View workers' project assignments
-- Remove workers and update all related data
-- Menu-driven interface for smooth user experience
+- Add new workers to the company  
+- Open new projects and assign workers  
+- Join workers to existing projects  
+- Add/remove project features  
+- View all active projects  
+- View workers’ project assignments  
+- Remove workers and auto-update project references  
+- Interactive menu with safe input handling
 
 ---
 
 ## Technologies Used
 
-- C (Programming Language)
-- Dynamic Memory Allocation
-- Structs and Linked Lists
-- Modular Code Design with `.h` and `.c` files
+- C (Programming Language)  
+- Dynamic Memory Allocation  
+- Structs and Linked Lists  
+- Modular Code Design using `.h` and `.c` files
 
 ---
 
 ## Skills Demonstrated
 
-- Proper use of `malloc`, `realloc`, and `free`
-- Avoidance of memory leaks
-- Use of arrays of pointers to manage relationships between entities
-- Clear separation of logic into modular components
-- Validation of user input and edge case handling
+- Proper use of `malloc`, `realloc`, and `free`  
+- Avoidance of memory leaks  
+- Data structure design using arrays and linked lists  
+- Modular architecture  
+- User interaction with validation
 
 ---
 
 ## Setup and Usage
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Cathrine-abu/Company_Management_System.git
-Navigate to the project directory:
 
-bash
-Copy
-Edit
-cd Company-Management-System
-Compile and run using make:
+    ```bash
+    git clone https://github.com/Cathrine-abu/Company_Management_System.git
+    ```
 
-bash
-Copy
-Edit
-make run
-If make is not installed, you can compile manually:
+2. **Navigate to the project directory:**
 
-bash
-Copy
-Edit
-gcc -o company_management_system src/company_management_system.c
-./company_management_system
-To clean the executable:
+    ```bash
+    cd Company-Management-System
+    ```
 
-bash
-Copy
-Edit
-make clean
-Project Structure
-src/: Contains the C source code and header files.
+3. **Compile and run using `make`:**
 
-src/company_management_system.c: The main file containing all program logic.
+    ```bash
+    make run
+    ```
 
-src/company_management_system.h: Declarations and definitions shared across the project.
+4. **If `make` is not installed, you can compile manually:**
 
-Makefile: Automates the build and run process using Make.
+    ```bash
+    gcc -o company_management_system src/company_management_system.c
+    ./company_management_system
+    ```
 
+5. **To clean the executable:**
+
+    ```bash
+    make clean
+    ```
+
+---
+
+## Project Structure
+
+- `src/` – Contains the C source code and header files  
+- `src/company_management_system.c` – Main program logic  
+- `src/company_management_system.h` – Struct definitions and function declarations  
+- `Makefile` – Automates the build and clean processes
+
+---
+
+## Author
+
+**Cathrine Abu-Elazam**  
+Bar-Ilan University  
+Project Duration: Jan 2024 – Mar 2024
