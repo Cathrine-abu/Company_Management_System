@@ -30,7 +30,7 @@ A **Company Management System** developed in **C**, simulating real-world compan
 
 - Proper use of `malloc`, `realloc`, and `free`  
 - Avoidance of memory leaks  
-- Data structure design using arrays and linked lists  
+- Data structure design using arrays, linked lists and pointers 
 - Modular architecture  
 - User interaction with validation
 
