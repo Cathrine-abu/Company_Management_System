@@ -44,26 +44,31 @@ Users can dynamically manage employees, projects, and assignments in a clean and
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Cathrine-abu/Company_Management_System.git
+```
+
 2️⃣ Navigate to the Project Directory
-bash
-Copy code
+```bash
 cd Company_Management_System
+```
+
 3️⃣ Compile and Run with make
-bash
-Copy code
+```bash
 make run
+```
+
 4️⃣ If make is not installed, compile manually
-bash
-Copy code
+```bash
 gcc -o company_management_system src/company_management_system.c
 ./company_management_system
+```
+
 5️⃣ Clean the Build Files
-bash
-Copy code
+```bash
 make clean
+```
+
 🗂️ Project Structure
-bash
-Copy code
+```bash
 Company_Management_System/
 │
 ├── src/
@@ -72,7 +77,9 @@ Company_Management_System/
 │
 ├── Makefile                         # Automates build and clean processes
 └── README.md                        # Project documentation
-🏁 Highlights
+```
+
+## 🏁 Highlights
 🔧 Written in pure C, emphasizing manual memory control and system-level thinking
 
 🧩 Demonstrates clean architecture through modular design
